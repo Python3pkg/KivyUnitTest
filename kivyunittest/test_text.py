@@ -10,7 +10,7 @@ from kivy.clock import Clock
 main_path = op.dirname(op.dirname(op.abspath(__file__)))
 sys.path.append(main_path)
 
-from main import My
+from .main import My
 
 
 class Test(unittest.TestCase):

@@ -27,7 +27,7 @@
 
 # Each test _needs_ a fresh python, otherwise only a single test will run
 
-from __future__ import print_function
+
 
 import os
 import sys
